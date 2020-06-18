@@ -3,8 +3,11 @@ Wine Quality Red Test
 ****
 <img src = "Wine.jpeg">
 ****
+
 ## [Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+
 ****
+
 ### Input variables (based on physicochemical tests):
 
 1. **fixed acidity**
@@ -20,7 +23,9 @@ Wine Quality Red Test
 11. **alcohol**
 
 ### Output variable (based on sensory data): quality (score between 0 and 10)
+
 ****
+
 ## Dependencies 
 
 1. **Python**
