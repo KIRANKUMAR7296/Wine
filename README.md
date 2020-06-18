@@ -6,8 +6,6 @@ Wine Quality Red Test
 
 ## [Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
-****
-
 ### Input variables (based on physicochemical tests):
 
 1. **fixed acidity**
